@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning pen testing
 - 📫 How to reach me xiaohaiwang17@gmail.com
-- 😄 Pronouns: UofG '26
+- 😄 Pronouns: UofG '26 MCTI
 - ⚡ Fun fact: we don't grow old because we stop playing, we grow old because we stop playing
 
 <!---
