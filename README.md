@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Klein-xiao
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning pen testing
+- 🌱 I’m currently learning pen-testing
 - 📫 How to reach me xiaohaiwang17@gmail.com
-- 😄 Pronouns: UofG '26 MCTI
+- 😄 Pronouns: University of Guelph '25 MCTI(Master of Cybersecurity and Threat Intelligence)
 - ⚡ Fun fact: we don't grow old because we stop playing, we grow old because we stop playing
 
 <!---
