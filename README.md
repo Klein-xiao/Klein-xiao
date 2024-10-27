@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Klein-xiao
+- 👋 Hi, I’m @Klein-xiao, xiaohai is my chinese name, Klein is my english name.
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning pen-testing
 - 📫 How to reach me xiaohaiwang17@gmail.com
