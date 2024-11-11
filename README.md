@@ -4,7 +4,7 @@
 - 📫 How to reach me xiaohaiwang17@gmail.com or https://www.linkedin.com/in/xiaohai-wang-6a0b30326/
 - 😄 Pronouns: University of Guelph '25 MCTI(Master of Cybersecurity and Threat Intelligence)
 - ⚡ Fun fact: we don't grow old because we stop playing, we grow old because we stop playing
-- SKILL: Kali Linux || Vulnerability Assessment and Penetration Testing || Ethical Hacking || Web Application Penetration Testing || OWASP || Nessus || Python || C/C++ || JAVA ||
+- SKILLS: Kali Linux || Vulnerability Assessment and Penetration Testing || Ethical Hacking || Web Application Penetration Testing || OWASP || Nessus || Python || C/C++ || JAVA ||
 
 <!---
 Klein-xiao/Klein-xiao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
